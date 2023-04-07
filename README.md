@@ -5,3 +5,6 @@ clone do projeto deliveroo feito em react native com tailwind, react-navigation/
 https://reactnavigation.org/docs/native-stack-navigator
 
 https://www.nativewind.dev/quick-starts/expo
+
+
+https://www.npmjs.com/package/react-native-heroicons
