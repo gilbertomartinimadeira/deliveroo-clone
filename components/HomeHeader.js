@@ -15,7 +15,7 @@ export default function HomeHeader() {
           <Text className="font-bold text-gray-400 text-xs">Deliver now!</Text>
           <Text className="font-bold text-xl">
             Current Location
-            <Icons.ChevronDownIcon size={30} color="#0CB" />
+            <Icons.ChevronDownIcon size={10} color="#0CB" />
           </Text>
         </View>
         <Icons.UserIcon size={35} color="#0CB" />
